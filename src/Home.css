@@ -1,0 +1,10 @@
+@media (min-width : 769px){
+    img[alt="home"]{
+        width: 500px;
+    }
+}
+@media (max-width : 768px){
+    img[alt="home"]{
+        width: 300px;
+    }
+}
